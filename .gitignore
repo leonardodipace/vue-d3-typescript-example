@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Exclude lock files
+yarn.lock
+package-lock.json
+pnpm-lock.json
+bun.lockb
